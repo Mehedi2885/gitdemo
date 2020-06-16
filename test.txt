@@ -14,7 +14,10 @@ Adding one line for cherry picker from local
 
 
 
+
 Testing head command from local
 
 new line 3 from local/master
 
+
+New line 3 from remote/master

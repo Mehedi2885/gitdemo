@@ -7,5 +7,7 @@ Commit 3 from local/master
 Commit 4 from remote/master
 Commit 5 from remote/master
 
+Commit 1 for reset and test
+Commit 2 for reset and test
 
 
